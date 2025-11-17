@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resonance.example.com/sitemap.xml
+
